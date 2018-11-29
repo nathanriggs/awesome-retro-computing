@@ -6,6 +6,8 @@ An awesome list of retro computing! Currently a early work in progress. Feel fre
 #### Blogs, Podcasts, and News
 * [Vintage is the New Old](https://www.vintageisthenewold.com/) — _"Vintage is the New old is a product of pure love and dedication for Retro Computing..."_
 * [Retronauts](https://retronauts.com) — _"America's favorite classic gaming podcast, probably"_
+* [ByteCellar](http://www.bytecellar.com)
+* [VCFED - Vintage Computer Federation](http://www.vcfed.org/)
 
 #### Magazines
 * [Retro Gamer](https://www.retrogamer.net/) — _"Retro Gamer offers an experience not available anywhere else in the world. Celebrating videogames exciting past with style and purpose, it is both an intelligent and emotional rediscovery of the IPs that defined an industry."_
@@ -20,7 +22,6 @@ An awesome list of retro computing! Currently a early work in progress. Feel fre
 * [DOS Game Club](https://www.dosgameclub.com/) — _"DOS Game Club is a monthly podcast and online community about DOS games."_
 * [DOS Gaming: Pre-Windows 95 Native Gaming](https://www.reddit.com/r/dosgaming/) — _"Dedicated subreddit for gaming on MS-DOS or Windows 3.0+, either via Dosbox or actual hardware. IPX networking, QEMM386'ing, all kinds of retro video game fun."_
 
-
 ### Software
 #### Operating Systems, Drivers, and Utilities
 * [FreeDOS](http://www.freedos.org/) — _"FreeDOS 1.2
@@ -31,4 +32,21 @@ FreeDOS is a complete, free, DOS-compatible operating system that you can use to
 * [DOSGames.com](https://dosgames.com/) — _"Download free DOS games with videos, and play online in your browser. Free forums & instructions to run games on your modern PC"_
 * [DOS Haven](http://www.doshaven.eu/) — _"21st Century DOS Games — Modern DOS games, new games for DOS, DOS homebrew, newest DOS games"_
 
+### Development
+
+#### NES
+
+[NesDev](https://wiki.nesdev.com/w/index.php/Nesdev_Wiki)
+[Getting Started with NES Programming](http://blog.fritzvd.com/2016/06/13/Getting-started-with-NES-programming/)
+
+
+#### Apple II
+
+
+### Hardware
+[Homebrew Computing Projects](https://hackaday.io/list/2402-homebrew-computers)
+
+### Creative
+
+#### Chiptunes
 
