@@ -39,9 +39,17 @@ FreeDOS is a complete, free, DOS-compatible operating system that you can use to
 [NesDev](https://wiki.nesdev.com/w/index.php/Nesdev_Wiki)
 [Getting Started with NES Programming](http://blog.fritzvd.com/2016/06/13/Getting-started-with-NES-programming/)
 
+#### Gameboy
+
+[Gameboy Development Wiki](http://gbdev.gg8.se/wiki/articles/Main_Page)
+
+#### Dreamcast VMU
+
+[Dreamcast VMU Programming and Tools](http://www.deco.franken.de/myfiles/myfiles.html)
 
 #### Apple II
 
+[A2 Online, The Ultimate Apple II Online Resource](https://apple2online.com/index.php?p=1_2_Documentation-Library)
 
 ### Hardware
 [Homebrew Computing Projects](https://hackaday.io/list/2402-homebrew-computers)
@@ -49,4 +57,6 @@ FreeDOS is a complete, free, DOS-compatible operating system that you can use to
 ### Creative
 
 #### Chiptunes
+
+[Little Sound DJ (Gameboy)](https://www.littlesounddj.com/lsd/index.php)
 
